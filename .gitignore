@@ -1,0 +1,9 @@
+work/
+data/
+*.pyc
+.cache
+results*/
+testing*/
+.DS_Store
+.nextflow*
+singularity.cache/
